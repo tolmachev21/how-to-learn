@@ -46,20 +46,20 @@ a {
   width: 730px;
   margin: 0;
   padding-left: 64px;
-  z-index: 3;  
+  z-index: 3;
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
 }
 
 .header__subtitle {
-  width: 388px;  
+  width: 388px;
   position: absolute;
   bottom: 30px;
   left: 64px;
   padding: 0;
   margin: 0;
-  line-height: 25px;  
+  line-height: 25px;
   font-size: 18px;
   font-weight: normal;
 }
@@ -221,7 +221,7 @@ a {
   font-weight: normal;
   color:#2f80ed;
   text-decoration: none;
-  position: absolute; 
+  position: absolute;
   top: 50%;
   right: 48px;
 }
