@@ -43,14 +43,13 @@ a {
 }
 
 .header__title {
-  width: 730px;  
+  width: 730px;
   margin: 0;
   padding-left: 64px;
   z-index: 3;  
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
-  margin: 0;
 }
 
 .header__subtitle {
@@ -76,8 +75,6 @@ a {
   bottom: 0px;
   right: 0px;
   z-index: 2;
-  width: 765px;
-  height: 608px;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
