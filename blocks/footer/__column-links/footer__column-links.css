@@ -1,18 +1,8 @@
 .footer__column-links {
     margin: 0;
     padding: 0;
-    color: white;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    text-decoration: none;
-    transition: opacity 1.5s ease-out 0s;
-  }
-
+    list-style: none;
+}
   .footer__column-links:last-of-type {
     padding-bottom: 16px;
-  }
-
-  .footer__column-links:hover {
-    opacity: .5;
-  }
+}
