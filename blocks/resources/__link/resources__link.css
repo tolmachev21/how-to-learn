@@ -2,8 +2,6 @@
     text-decoration: none;
     color: #2f80ed;
     transition: opacity 1.5s ease-out 0s;
-    width: 270px;
-    height: 38px;
 }
 
 .resources__logo:hover {
